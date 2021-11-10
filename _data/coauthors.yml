@@ -1,18 +1,24 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Haddadi":
+  - firstname: ["Hamed", "H."]
+    url: https://haddadi.github.io
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Barnaghi":
+  - firstname: ["Payam", "P."]
+    url: https://pbarnaghi.github.io
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Wagner":
+  - firstname: ["Isabel", "I."]
+    url: https://www.isabel-wagner.net
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Simperl":
+  - firstname: ["Elena", "E."]
+    url: http://elenasimperl.eu
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Ye":
+  - firstname: ["Juan", "J."]
+    url: https://sites.google.com/site/juanyeresearch/Home
+
+"Henderson":
+  - firstname: ["Tristan", "T."]
+    url: https://tnhh.org
+
