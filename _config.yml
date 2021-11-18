@@ -14,7 +14,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-icon: 🔥 # the emoji used as the favicon
+icon: 👋 # the emoji used as the favicon
 url: https://yuchenzhao.github.io # the base hostname & protocol for your site
 baseurl:
 last_updated: true # set to true if you want to display last updated in the footer
@@ -69,7 +69,6 @@ stackoverflow_id: #your stackoverflow id
 rss_icon: true
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 
 google_analytics: # out your google-analytics code
 panelbear_analytics: # panelbear analytics site ID
