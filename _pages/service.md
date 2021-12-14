@@ -30,6 +30,11 @@ order: 1
 </ul>
 
 <h2>Supervision</h2>
+<h3>Ph.D. (as assistant supervisor)</h3>
+<ul>
+<li>Mengjia Niu, Imperial College London (2021-)</li>
+<li>Yushan Huang, Imperial College London (2021-)</li>
+</ul>
 <h3>Undergraduate Research Opportunities Programme</h3>
 <ul>
 <li>Leonardo Bossi, Imperial College London (2020-2021)</li>
