@@ -9,12 +9,13 @@ order: 1
 
 <h2>Technical Programme & Organising Committee</h2>
 <ul>
-	<li>Program committee, MAISP ’21, Online, Worldwide</li>
-	<li>Program committee, RecSys ’20, Online, Worldwide</li>
-	<li>Local arrangements co-chairs, MobiCom ’20, London, United Kingdom</li>
-	<li>Program committee (Demo & LBR), UMAP ’19, Larnaca, Cyprus</li>
-	<li>Program committee, UMAP ’19, Larnaca, Cyprus</li>
-	<li>Poster committee, MobiSys ’18, Munich, Germany</li>
+	<li>Program committee, <a href="https://manage-iot.future-iot.org">Manage-IoT ’22</a>, Budapest, Hungary</li>
+	<li>Program committee, <a href="https://maisp.gitlab.io">MAISP ’21</a>, Online, Worldwide</li>
+	<li>Program committee, <a href="https://recsys.acm.org/recsys20">RecSys ’20</a>, Online, Worldwide</li>
+	<li>Local arrangements co-chairs, <a href="https://sigmobile.org/mobicom/2020">MobiCom ’20</a>, London, United Kingdom</li>
+	<li>Program committee (Demo & LBR), <a href="http://www.cyprusconferences.org/umap2019">UMAP ’19</a>, Larnaca, Cyprus</li>
+	<li>Program committee, <a href="http://www.cyprusconferences.org/umap2019">UMAP ’19</a>, Larnaca, Cyprus</li>
+	<li>Poster committee, <a href="https://www.sigmobile.org/mobisys/2018">MobiSys ’18</a>, Munich, Germany</li>
 </ul>
 <h2>Reviewer</h2>
 <ul>
@@ -35,7 +36,7 @@ order: 1
 <li>Mengjia Niu, Imperial College London (2021-)</li>
 <li>Yushan Huang, Imperial College London (2021-)</li>
 </ul>
-<h3>Undergraduate Research Opportunities Programme</h3>
+<h3>Undergraduate Research Opportunities Programme (UROP)</h3>
 <ul>
 <li>Leonardo Bossi, Imperial College London (2020-2021)</li>
 <li>Hanyang Liu, Imperial College London (2019-2020)</li>
@@ -43,3 +44,8 @@ order: 1
 </ul>
 
 <h2>Teaching</h2>
+<ul>
+<li>Imperial College London: Sensing and Internet of Things (guest lecturer, 2020/21, 2021/22), Design Engineering Futures (tutor, 2020/21)</li>
+<li>University of Southampton: COMP6234 (Data Visualisation, tutor, 2018/19)</li>
+<li>University of St Andrews: CS1002 (Object-Oriented Programming, demonstrator & tutor, 2014/15, 2015/16, 2016/17), CS1003 (Programming with Data, demonstrator, 2014/15), CS1006 (Programming Projects, demonstrator & tutor, 2014/15, 2015/16), CS2001 (Foundations of Computation, demonstrator, 2015/16, 2016/17), CS2003 (The Internet and the Web: Concepts and Programming, Demonstrator, 2014/15, 2015/16, 2016/17) </li>
+</ul>
