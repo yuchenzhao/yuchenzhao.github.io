@@ -19,6 +19,7 @@ order: 1
 
 ## Reviewer
 
+- ACM Transactions on Privacy and Security (TOPS)
 - ACM Transactions on Computing for Healthcare (HEALTH)
 - IEEE Transactions on Information Forensics and Security (TIFS)
 - IEEE Transactions on Big Data (TBD)
