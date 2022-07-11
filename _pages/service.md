@@ -24,6 +24,7 @@ order: 1
 - ACM Transactions on Computing for Healthcare (HEALTH)
 - IEEE Transactions on Information Forensics and Security (TIFS)
 - IEEE Transactions on Big Data (TBD)
+- IEEE Transactions on Computers (TC)
 - Computers & Security
 - Computer Communications
 - Journal of Information Security and Applications
