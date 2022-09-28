@@ -48,10 +48,13 @@ order: 1
 
 ## Teaching
 
+- University of York:
+  - CRES (Cyber Security Research Skills, lecturer, 2022/2023)
 - Imperial College London:
   - Sensing and Internet of Things (guest lecturer, 2020/21, 2021/22)
   - Design Engineering Futures (tutor, 2020/21)
-- University of Southampton: COMP6234 (Data Visualisation, tutor, 2018/19)
+- University of Southampton:
+  - COMP6234 (Data Visualisation, tutor, 2018/19)
 - University of St Andrews:
   - CS1002 (Object-Oriented Programming, demonstrator & tutor, 2014/15, 2015/16, 2016/17)
   - CS1003 (Programming with Data, demonstrator, 2014/15)

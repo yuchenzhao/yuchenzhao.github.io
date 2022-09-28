@@ -6,9 +6,9 @@ title: Yuchen Zhao # the website title (if blank, full name will be used instead
 first_name: Yuchen
 middle_name:
 last_name: Zhao
-email: yuchen.zhao19@imperial.ac.uk
+email: yuchen.zhao@york.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Research Associate in Computer Science
+  Lecturer in Computer Science
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -50,7 +50,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: yuchenzhao
 gitlab_username: # your GitLab user name
-twitter_username: yc_icl
+twitter_username: yc_york
 linkedin_username: yuchenzhao
 scholar_userid: Al1xMi4AAAAJ
 orcid_id: 0000-0003-4780-093X
