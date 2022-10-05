@@ -9,6 +9,7 @@ order: 1
 
 ## Technical Programme & Organising Committee
 
+- Program committee, [ICCCN '23](http://www.icccn.org/), Honolulu, USA
 - Program committee, [Manage-IoT ’22](https://manage-iot.future-iot.org), Budapest, Hungary
 - Program committee, [MAISP ’21](https://maisp.gitlab.io), Online, Worldwide
 - Program committee, [RecSys ’20](https://recsys.acm.org/recsys20), Online, Worldwide
