@@ -20,6 +20,7 @@ order: 1
 
 ## Reviewer
 
+- IEEE Internet of Things Journal (IoT-J)
 - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 - ACM Transactions on Privacy and Security (TOPS)
 - ACM Transactions on Computing for Healthcare (HEALTH)
@@ -38,19 +39,21 @@ order: 1
 
 ### Ph.D. (as assistant supervisor)
 
-- Mengjia Niu, Imperial College London (2021-)
-- Yushan Huang, Imperial College London (2021-)
+- Mengjia Niu, Imperial College London (2021-22)
+- Yushan Huang, Imperial College London (2021-22)
 
 ### Undergraduate Research Opportunities Programme (UROP)
 
-- Leonardo Bossi, Imperial College London (2020-2021)
-- Hanyang Liu, Imperial College London (2019-2020)
-- Danni Shi, Imperial College London (2019-2020)
+- Leonardo Bossi, Imperial College London (2020-21)
+- Hanyang Liu, Imperial College London (2019-20)
+- Danni Shi, Imperial College London (2019-20)
 
 ## Teaching
 
 - University of York:
-  - CRES (Cyber Security Research Skills, lecturer, 2022/2023)
+  - CRES (Cyber Security Research Skills, lecturer, 2022/23)
+  - NETS/NTAC (Information & Network Security/Networks & Communications Security: Threats, Attacks & Countermeasures, lecturer, 2022/23)
+  - WASP (Wider Aspects of Cyber Security, 2022/23)
 - Imperial College London:
   - Sensing and Internet of Things (guest lecturer, 2020/21, 2021/22)
   - Design Engineering Futures (tutor, 2020/21)
