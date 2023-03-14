@@ -20,6 +20,7 @@ order: 1
 
 ## Reviewer
 
+- IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Internet of Things Journal (IoT-J)
 - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 - ACM Transactions on Privacy and Security (TOPS)
