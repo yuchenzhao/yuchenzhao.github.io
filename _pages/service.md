@@ -9,7 +9,8 @@ order: 1
 
 ## Technical Programme & Organising Committee
 
-- Program committee, [ICCCN '23](http://www.icccn.org/), Honolulu, USA
+- Program committee, [ICCCN '24](http://www.icccn.org/index.html), Big Island, USA
+- Program committee, [ICCCN '23](http://www.icccn.org/icccn23/index.html), Honolulu, USA
 - Program committee, [Manage-IoT ’22](https://manage-iot.future-iot.org), Budapest, Hungary
 - Program committee, [MAISP ’21](https://maisp.gitlab.io), Online, Worldwide
 - Program committee, [RecSys ’20](https://recsys.acm.org/recsys20), Online, Worldwide
@@ -20,6 +21,7 @@ order: 1
 
 ## Reviewer
 
+- IEEE Transactions on Knowledge and Data Engineering (TKDE)
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Internet of Things Journal (IoT-J)
 - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
