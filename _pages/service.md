@@ -54,7 +54,7 @@ order: 1
 ## Teaching
 
 - University of York:
-  - NETS(Network Security, lecturer (module lead), 2023/24)
+  - NETS (Network Security, lecturer (module lead), 2023/24)
   - NETS/NTAC (Information & Network Security/Networks & Communications Security: Threats, Attacks & Countermeasures, lecturer (module lead), 2022/23)
   - CRES (Cyber Security Research Skills, lecturer, 2022/23)
   - WASP (Wider Aspects of Cyber Security, mentor, 2022/23)
