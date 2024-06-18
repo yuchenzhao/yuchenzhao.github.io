@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /service/
-title: Service
+title: Services
 description: Community services, student supervision, and teaching
 nav: true
 order: 1
