@@ -9,6 +9,7 @@ order: 1
 
 ## Technical Programme & Organising Committee
 
+- Program committee, [IoT '24](https://iot-conference.org/iot2024/), Oulu, Finland
 - Program committee, [ICCCN '24](http://www.icccn.org/index.html), Big Island, USA
 - Program committee, [ICCCN '23](http://www.icccn.org/icccn23/index.html), Honolulu, USA
 - Program committee, [Manage-IoT ’22](https://manage-iot.future-iot.org), Budapest, Hungary
@@ -42,14 +43,14 @@ order: 1
 
 ### Ph.D. (as assistant supervisor)
 
-- Mengjia Niu, Imperial College London (2021-22)
-- Yushan Huang, Imperial College London (2021-22)
+- [Mengjia Niu](https://profiles.imperial.ac.uk/m.niu21), Imperial College London (2021-22)
+- [Yushan Huang](https://yushan-huang.github.io/), Imperial College London (2021-22)
 
-### Undergraduate Research Opportunities Programme (UROP)
+<!-- ### Undergraduate Research Opportunities Programme (UROP)
 
 - Leonardo Bossi, Imperial College London (2020-21)
 - Hanyang Liu, Imperial College London (2019-20)
-- Danni Shi, Imperial College London (2019-20)
+- Danni Shi, Imperial College London (2019-20) -->
 
 ## Teaching
 
