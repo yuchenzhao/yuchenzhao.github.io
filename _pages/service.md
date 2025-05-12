@@ -23,6 +23,7 @@ order: 1
 
 ## Reviewer
 
+- IEEE Transactions on Networking (TON)
 - IEEE Transactions on Knowledge and Data Engineering (TKDE)
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Internet of Things Journal (IoT-J)
