@@ -7,7 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>CSE/231</p>
+    <p>CSE/132</p>
     <p>Deramore Lane</p>
     <p>Department of Computer Science</p>
     <p>University of York</p>
