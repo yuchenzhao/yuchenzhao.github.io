@@ -9,6 +9,7 @@ nav_order: 1
 
 ## Technical Programme & Organising Committee
 
+- Program committee, [IoT '25](https://iot-conference.org/iot2025/), Vienna, Austria
 - Program committee, [EuroMLSys '25](https://euromlsys.eu/), Rotterdam, Netherlands
 - Program committee, [IoT '24](https://iot-conference.org/iot2024/), Oulu, Finland
 - Program committee, [ICCCN '24](http://www.icccn.org/index.html), Big Island, USA
